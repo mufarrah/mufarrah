@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is A.Rahman Mufarrah
 =========================================================================================================================================
 
-Frontend developer
+Software developer
 ------------------
 
-I am a frontend developer with experience in mobile / web development and UI/UX design
+I am a software developer with experience in mobile / web development and UI/UX design
 
 * 🌍  I'm based in Bahrain
 * 🖥️  See my portfolio at [MyPortfolio](http://mufarrah.com)
